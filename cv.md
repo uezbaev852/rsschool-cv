@@ -41,7 +41,7 @@ static List<FitnessRecord> GenerateFitnessRecords()
         }
 ```
 ## **Education**
---
+---
 * Kyrgyz-Russian Slavic University
 * C# + T-SQL Courses
 ## **English**
